@@ -30,15 +30,16 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Database & Tools**
+**Database & Cloud**
 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
 > **Actively used across 5 real stores** — not a demo, a live product
@@ -47,6 +48,19 @@
 - Full-stack: **React + TypeScript + Node.js + Prisma**
 - Deployed on **Render + Vercel**
 - JWT auth, timezone handling (Sydney/Australia), role-based access
+
+### 💹 SAIXAN — AI-Driven Financial Management System *(Ten-X, Private)*
+> Enterprise-level PL financial system built at Ten-X
+
+- Full-stack development with **React + TypeScript + C# + Firebase/Firestore**
+- AI-integrated financial reporting and analysis
+- Production system serving real business operations
+
+### 🏥 DCM Image Converter *(C++ / Qt Framework)*
+> Medical DICOM image processing tool
+
+- Built with **C++ and Qt Framework**
+- DICOM standard image conversion and processing
 
 ---
 
