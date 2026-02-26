@@ -36,13 +36,23 @@ Open to mid-level full-stack roles in Sydney. If you're building something inter
 
 ### 🔨 Things I've built
 
-**[Bee-Time](https://github.com/Irene3104/Project_BeeTime)** — QR-based attendance tracking, live across 5 stores
-`React` `TypeScript` `Node.js` `Prisma` `Vercel`
+#### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
+**Live across 5 real stores.** Employees scan a QR code to clock in/out; managers get a real-time dashboard and one-click Excel exports. Built and deployed entirely by me.
 
-**SAIXAN** *(private, Ten-X)* — Departmental P&L system with AI-integrated reporting
-`React 19` `TypeScript` `Firebase` `Cloud Run (Tokyo)`
+`React` `TypeScript` `Node.js` `Prisma` `MySQL` `JWT` `Google OAuth` `Vercel` `Render`
 
-**DCM Image Converter** — DICOM medical image processing tool
+<br>
+
+#### 💹 SAIXAN *(Ten-X — Private)*  — AI-Driven P&L Management
+Enterprise financial system for a Japanese startup. Handles departmental budgets, actuals, labor costs, and expense workflows — with AI-integrated reporting and real-time Firestore sync.
+
+`React 19` `TypeScript` `Firebase Functions` `Firestore` `Cloud Run (Tokyo)` `Zod`
+
+<br>
+
+#### 🏥 DCM Image Converter — Medical Imaging Tool
+DICOM standard image processing and conversion tool, built for a previous role in the medical software space.
+
 `C++` `Qt Framework`
 
 <br>
@@ -56,4 +66,4 @@ Open to mid-level full-stack roles in Sydney. If you're building something inter
 ### 📫 Find me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoyoon-irenekim)
 
-*Full Australian work rights, no sponsorship needed.*
+*Full Australian work rights — no sponsorship needed.*
