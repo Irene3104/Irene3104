@@ -1,67 +1,81 @@
-<h1 align="center">Hi 👋, I'm Seoyun (Irene) Kim</h1>
+# Hi, I'm Seoyun (Irene) Kim 👋
 
-<h3 align="center">
-Full-Stack Software Engineer | React · TypeScript · Node.js · C# · Firebase<br/>
-Building real products that people actually use — Sydney, Australia 🇦🇺
-</h3>
+**Full-Stack Developer** based in Sydney 🦘 | React · TypeScript · Node.js · C# · C++
 
 ---
 
-### 👩‍💻 About Me
+## 🚀 About Me
 
-I'm a full-stack developer with **5+ years of experience** across Korea, Japan, and Australia — from embedded C++ tools to modern cloud-native web apps.
-
-- 🐝 **Built Bee-Time**: A QR-based attendance system **actively running across 5 real stores** — designed, built, and deployed end-to-end by me.
-- 💹 **Currently at Ten-X** (Japanese startup, Sydney): Leading development of **SAIXAN**, an AI-driven departmental P&L management system on Firebase + Cloud Run.
-- 🎓 **Master of IT @ UTS** (Feb 2026) | 🌏 Trilingual: Korean · Japanese · English
-- 🇦🇺 **Full Australian Work Rights** — no sponsorship required.
-
----
-
-### 🚀 Featured Projects
-
-#### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
-> Live product used across **5 real stores** — not a demo
-
-- Built a full QR-based check-in/out system with real-time tracking and role-based access
-- **Stack**: React + TypeScript + Node.js + Prisma + MySQL
-- Deployed on **Render + Vercel** with JWT auth and Sydney timezone handling
-
-#### 💹 SAIXAN — AI-Driven P&L Management System *(Ten-X, Private)*
-> Enterprise financial system for a Japanese startup — handling real business data
-
-- Led full-stack development: departmental budgets, actuals, labor costs, expense workflows
-- Integrated **AI/LLM** for automated financial analysis and natural language reporting
-- **Stack**: React 19 + TypeScript + Firebase Functions + Firestore + Cloud Run (Tokyo)
-- Implemented Firestore triggers for automatic labor cost recalculation
-
-#### 🏥 DCM Image Converter *(C++ / Qt Framework)*
-> Medical DICOM image processing tool built for a previous role
-
-- Built with **C++ and Qt Framework** for DICOM standard image conversion
-- Hands-on experience with low-level systems programming in a production context
+- 🏗️ Building **real products** — not just portfolio projects
+- 💼 Software Engineer @ **Ten-X** (AI-driven financial systems)
+- 🎓 Master of IT @ **UTS** (Feb 2026)
+- 🌏 Background across **Korea · Japan · Australia**
+- 🗣️ Fluent in **Korean**, **Japanese**, and **English**
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, Vite |
-| **Backend** | Node.js, C#, Firebase Functions, Express |
-| **Database** | Firestore, Prisma, MySQL, SQLite |
-| **Tools & Cloud** | Firebase, Google Cloud Run, Git, Vercel, Render |
-| **Other** | C++, Qt Framework, Python, Microsoft Dynamics 365 |
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🎓 Education & Work Rights
-- **Master of Information Technology** — University of Technology Sydney (Feb 2026)
-- **Full Australian Work Rights** — no sponsorship required
+## 🌟 Featured Projects
+
+### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
+> **Actively used across 5 real stores** — not a demo, a live product
+
+- QR-based check-in/out with real-time tracking
+- Full-stack: **React + TypeScript + Node.js + Prisma**
+- Deployed on **Render + Vercel**
+- JWT auth, timezone handling (Sydney/Australia), role-based access
+
+### 💹 SAIXAN — AI-Driven Financial Management System *(Ten-X, Private)*
+> Enterprise-level PL financial system built at Ten-X
+
+- Full-stack development with **React + TypeScript + C# + Firebase/Firestore**
+- AI-integrated financial reporting and analysis
+- Production system serving real business operations
+
+### 🏥 DCM Image Converter *(C++ / Qt Framework)*
+> Medical DICOM image processing tool
+
+- Built with **C++ and Qt Framework**
+- DICOM standard image conversion and processing
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/seoyoon-irenekim](https://www.linkedin.com/in/seoyoon-irenekim)
-- **Email:** irenekimdev@outlook.com
+## 📊 GitHub Stats
 
+![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irene3104&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irene3104&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoyoon-irenekim)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irene3104)
+
+---
+
+*📍 Sydney, Australia | Open to mid-level Full-Stack roles*
