@@ -2,7 +2,7 @@
 
 Full-stack developer based in Sydney 🇦🇺
 
-I like building things that actually get used. My proudest project is **Bee-Time**, a QR attendance system I built from scratch that's now running live across 5 real stores.
+I like building things that actually get used. My proudest project is **Bee-Time**, a QR-based attendance system I built from scratch — now running live across multiple stores in Sydney, including Baskin Robbins and Sushi Roll.
 
 Right now I'm at a Japanese startup (Ten-X), leading development of **SAIXAN**, an AI-powered financial management system on Firebase and Google Cloud.
 
@@ -36,24 +36,27 @@ Open to mid-level full-stack roles in Sydney. If you're building something inter
 
 ### 🔨 Things I've built
 
-#### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
-**Live across 5 real stores.** Employees scan a QR code to clock in/out; managers get a real-time dashboard and one-click Excel exports. Built and deployed entirely by me.
+### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
+> Live across multiple stores in Sydney, including **Baskin Robbins** and **Sushi Roll**
 
-`React` `TypeScript` `Node.js` `Prisma` `MySQL` `JWT` `Google OAuth` `Vercel` `Render`
+- Employees scan a QR code to clock in/out — tracks location, time, and shifts in real-time
+- Built end-to-end: QR generation, JWT auth, role-based dashboard, Excel export
+- Sydney timezone handling, Google OAuth, email notifications via Nodemailer
+- **Stack:** React · TypeScript · Node.js · Prisma · MySQL · Vercel · Render
 
-<br>
+### 💹 SAIXAN *(Ten-X, private)* — AI-Driven P&L Management System
+> Enterprise financial system for a Japanese startup, handling real business data
 
-#### 💹 SAIXAN *(Ten-X — Private)*  — AI-Driven P&L Management
-Enterprise financial system for a Japanese startup. Handles departmental budgets, actuals, labor costs, and expense workflows — with AI-integrated reporting and real-time Firestore sync.
+- Departmental budgets, actuals, labor costs, and expense approval workflows
+- AI-integrated financial reporting and natural language analysis
+- Firestore triggers for automatic labor cost recalculation on rate changes
+- **Stack:** React 19 · TypeScript · Firebase Functions · Firestore · Cloud Run (Tokyo)
 
-`React 19` `TypeScript` `Firebase Functions` `Firestore` `Cloud Run (Tokyo)` `Zod`
+### 🏥 DCM Image Converter *(C++ / Qt Framework)*
+> Medical DICOM image processing tool built at a previous role
 
-<br>
-
-#### 🏥 DCM Image Converter — Medical Imaging Tool
-DICOM standard image processing and conversion tool, built for a previous role in the medical software space.
-
-`C++` `Qt Framework`
+- DICOM standard image conversion and processing
+- **Stack:** C++ · Qt Framework
 
 <br>
 
