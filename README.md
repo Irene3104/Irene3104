@@ -64,4 +64,4 @@ Open to mid-level full-stack roles in Sydney. If you're building something inter
 ### 📫 Find me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoyoon-irenekim)
 
-*Full Australian work rights — no sponsorship needed.*
+*Full Australian work rights*
