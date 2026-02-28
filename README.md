@@ -1,4 +1,4 @@
-# Hey, I'm Seoyoon (Irene) 👋
+# Hey, I'm Seoyoon (Irene)
 
 Full-stack developer based in Sydney 🇦🇺
 
