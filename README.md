@@ -59,11 +59,6 @@ Open to mid-level full-stack roles in Sydney. If you're building something inter
 - **Stack:** C++ · Qt Framework
 
 <br>
-
-### 📊 This week's coding time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br>
 
 ### 📫 Find me here
