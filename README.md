@@ -12,8 +12,11 @@ My work has focused on:
 I’m strongest when solving real operational problems through practical software, especially in roles that combine technical delivery, product thinking, and direct stakeholder communication.
 
 ## Tech
+**Languages**  
+Python, TypeScript, JavaScript, C#, C++
+
 **Frontend**  
-React, Next.js, TypeScript, JavaScript, Tailwind CSS
+React, Next.js, Tailwind CSS
 
 **Backend**  
 Node.js, Express, Firebase Cloud Functions, REST APIs, Prisma
@@ -21,11 +24,14 @@ Node.js, Express, Firebase Cloud Functions, REST APIs, Prisma
 **AI / LLM**  
 Claude API, prompt design, structured output handling, AI-assisted development workflows
 
-**Database / Cloud**  
-MySQL, PostgreSQL, Firestore, SQLite, GCP, Firebase, AWS, Docker
+**Databases**  
+MySQL, PostgreSQL, Firestore, SQLite
+
+**Cloud / DevOps**  
+GCP, Firebase, AWS, Docker
 
 **Other**  
-C#, C++, JWT, Google OAuth 2.0, RBAC
+JWT, Google OAuth 2.0, RBAC
 
 ## Selected Work
 - **Bee-Time** — workforce management product used across 5 retail stores in Sydney
