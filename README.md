@@ -1,67 +1,58 @@
-# Hey, I'm Seoyoon (Irene)
+# Hello, I'm Seoyoon Kim (Irene)
 
-Full-stack developer based in Sydney 🇦🇺
+Full-stack software engineer based in Sydney.
 
-I like building things that actually get used. My proudest project is **Bee-Time**, a QR-based attendance system I built from scratch — now running live across multiple stores in Sydney, including Baskin Robbins and Sushi Roll.
+I build and maintain production systems end to end, from system design and frontend/backend development to cloud deployment and post-launch support. My work has focused on enterprise finance, workforce operations, and medical software.
 
-Right now I'm at a Japanese startup (Ten-X), leading development of **SAIXAN**, an AI-powered financial management system on Firebase and Google Cloud.
+Right now, I’m building **SAIXAN**, an AI-integrated departmental P&L platform at TEN-X in Japan, used by 4 internal departments and 3 external companies. I also built **Bee-Time**, a workforce management product live across 5 retail stores in Sydney with 128 active users.
 
-Open to mid-level full-stack roles in Sydney. If you're building something interesting, I'd love to chat.
+What I’m strongest at is turning real operational problems into practical software that gets used in production. That usually means working across the full stack, communicating directly with stakeholders, and designing systems around actual workflows rather than assumptions.
 
-<br>
-
-### 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
 **Backend**
+Node.js, Express, Firebase Cloud Functions, REST APIs, Prisma
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**AI / LLM**
+Claude API, prompt design, structured output handling, bilingual AI chat workflows
 
-**Database & Cloud**
+**Databases**
+MySQL, PostgreSQL, Firestore, SQLite
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Cloud & DevOps**
+GCP (Cloud Run, Cloud Functions), Firebase, AWS, Docker, GitHub Actions, CI/CD
 
-<br>
+**Other**
+C#, C++, JWT, Google OAuth 2.0, RBAC
 
-### 🔨 Things I've built
+## Featured Work
 
-### 🐝 [Bee-Time](https://github.com/Irene3104/Project_BeeTime) — QR Attendance System
-> Live across multiple stores in Sydney, including **Baskin Robbins** and **Sushi Roll**
+### Bee-Time — Workforce Management Web App
 
-- Employees scan a QR code to clock in/out — tracks location, time, and shifts in real-time
-- Built end-to-end: QR generation, JWT auth, role-based dashboard, Excel export
-- Sydney timezone handling, Google OAuth, email notifications via Nodemailer
-- **Stack:** React · TypeScript · Node.js · Prisma · MySQL · Vercel · Render
+* Built from firsthand operational insight after identifying payroll and attendance errors caused by hardware-based time cards and manual wage calculation
+* Designed, built, and deployed the product end to end
+* Replaced physical cards and rental hardware with QR-based attendance tracking
+* Improved wage accuracy and admin efficiency across 5 cafés and restaurants
 
-### 💹 SAIXAN *(Ten-X, private)* — AI-Driven P&L Management System
-> Enterprise financial system for a Japanese startup, handling real business data
+### SAIXAN — AI-Integrated P&L Platform
 
-- Departmental budgets, actuals, labor costs, and expense approval workflows
-- AI-integrated financial reporting and natural language analysis
-- Firestore triggers for automatic labor cost recalculation on rate changes
-- **Stack:** React 19 · TypeScript · Firebase Functions · Firestore · Cloud Run (Tokyo)
+* Built for real enterprise finance operations at TEN-X
+* Supports budget vs actual tracking, labour cost handling, expense approvals, and reporting workflows
+* Includes bilingual AI-assisted querying and analysis using Claude API
+* Delivered as a production platform used across internal teams and external clients
 
-### 🏥 DCM Image Converter *(C++ / Qt Framework)*
-> Medical DICOM image processing tool built at a previous role
+### Medical Imaging SDK / DICOM Converter
 
-- DICOM standard image conversion and processing
-- **Stack:** C++ · Qt Framework
+* Expanded compatibility from 3 to 10+ manufacturers in a previous medical software role
+* Improved interoperability across imaging systems while preserving data integrity
+* Contributed to a 25% increase in product sales
 
-<br>
-<br>
+## Connect
 
-### 📫 Find me here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoyoon-irenekim)
+* Portfolio: seoyoon.space
+* LinkedIn: linkedin.com/in/seoyoon-irenekim
 
-*Full Australian work rights*
+Open to full-stack software engineering opportunities in Sydney, remote, or hybrid environments.
